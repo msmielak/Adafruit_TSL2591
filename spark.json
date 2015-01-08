@@ -1,0 +1,7 @@
+{
+    "name": "Adafruit_TSL2591",
+    "version": "0.0.1",
+    "author": "Patrick <patrickwasp@gmail.com>",
+    "license": "LGPLv3",
+    "description": "use the Adafruit_TSL2591"
+}
