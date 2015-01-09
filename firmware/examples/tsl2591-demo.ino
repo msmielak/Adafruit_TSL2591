@@ -1,8 +1,8 @@
 // This #include statement was automatically added by the Spark IDE.
-#include "Adafruit_TSL2591.h"
+#include "Adafruit_TSL2591/Adafruit_TSL2591.h"
 
 // This #include statement was automatically added by the Spark IDE.
-#include "Adafruit_Sensor.h"
+#include "Adafruit_TSL2591/Adafruit_Sensor.h"
 
 // Example for demonstrating the TSL2591 library - public domain!
 
